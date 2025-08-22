@@ -1,2 +1,3 @@
-# Hotel-managment-using-C-
+# Hotel-managment-using-C++
+
 First C++ project 
